@@ -1,2 +1,2 @@
 # leetcode_tools
-Some tool for leetcode user.
+Some tools for leetcode user.
