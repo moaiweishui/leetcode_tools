@@ -7,6 +7,7 @@ Leetcode中，许多题目给出的输入测试例不能直接被复制进代码
 ***
 ### list2vector.py
 - class list2vector()
+
     以list形式给出输入，将其转换为C++中的vector
     - int2int(): int型list->int型vector
     
